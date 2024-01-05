@@ -21,7 +21,7 @@
   ],
   "bin": "./bin/cli.js",
   "engines": {
-    "node": ">=0"
+    "node": ">=14"
   },
   "scripts": {
     "build": "tsup",
